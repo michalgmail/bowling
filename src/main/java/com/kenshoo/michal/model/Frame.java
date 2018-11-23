@@ -3,7 +3,7 @@ package com.kenshoo.michal.model;
 public class Frame {
 
     public static final int STRIKE_COUNT = 10;
-    Integer score = 0;
+
     Integer firstHit;
     Integer secondHit;
 
